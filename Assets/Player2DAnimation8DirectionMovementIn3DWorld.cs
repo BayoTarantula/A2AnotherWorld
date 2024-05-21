@@ -6,7 +6,6 @@ public class Movement : MonoBehaviour
 {
     private float horizontal;
     private float vertical;
-    private bool isFacingRight = false;
 
     [SerializeField] private Rigidbody2D rb;
     Animator animator;
@@ -31,19 +30,6 @@ public class Movement : MonoBehaviour
         else
         {
             animator.SetBool("Moving", true);
-        }
-
-        FlipSpriteIn3D();
-    }
-
-    private void FlipSpriteIn3D()
-    {
-        if (isFacingRight && horizontal < 0f || !isFacingRight && horizontal > 0f)
-        {
-            isFacingRight = !isFacingRight;
-            Vector3 localScale = transform.localScale;
-            localScale.y *= -1f;
-            transform.localScale = localScale;
         }
     }
 }

@@ -153,7 +153,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 5
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -174,7 +174,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 50
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -195,7 +195,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 95
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -216,7 +216,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 140
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -237,7 +237,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 185
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -258,7 +258,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 230
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -279,7 +279,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 275
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -300,7 +300,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -321,7 +321,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 365
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -342,7 +342,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 410
-        y: 230
+        y: 365
         width: 40
         height: 40
       alignment: 0
@@ -363,7 +363,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 5
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -384,7 +384,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 50
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -405,7 +405,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 95
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -426,7 +426,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 140
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -447,7 +447,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 185
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -468,7 +468,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 230
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -489,7 +489,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 275
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -510,7 +510,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 185
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -530,8 +530,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_18
       rect:
         serializedVersion: 2
-        x: 5
-        y: 140
+        x: 365
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -551,8 +551,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_19
       rect:
         serializedVersion: 2
-        x: 50
-        y: 140
+        x: 410
+        y: 320
         width: 40
         height: 40
       alignment: 0
@@ -572,8 +572,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_20
       rect:
         serializedVersion: 2
-        x: 95
-        y: 140
+        x: 5
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -593,8 +593,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_21
       rect:
         serializedVersion: 2
-        x: 140
-        y: 140
+        x: 50
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -614,8 +614,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_22
       rect:
         serializedVersion: 2
-        x: 185
-        y: 140
+        x: 95
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -635,8 +635,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_23
       rect:
         serializedVersion: 2
-        x: 230
-        y: 140
+        x: 140
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -656,8 +656,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_24
       rect:
         serializedVersion: 2
-        x: 275
-        y: 140
+        x: 185
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -677,8 +677,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_25
       rect:
         serializedVersion: 2
-        x: 320
-        y: 140
+        x: 230
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -698,8 +698,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_26
       rect:
         serializedVersion: 2
-        x: 5
-        y: 95
+        x: 275
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -719,8 +719,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_27
       rect:
         serializedVersion: 2
-        x: 50
-        y: 95
+        x: 320
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -740,8 +740,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_28
       rect:
         serializedVersion: 2
-        x: 95
-        y: 95
+        x: 365
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -761,8 +761,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_29
       rect:
         serializedVersion: 2
-        x: 140
-        y: 95
+        x: 410
+        y: 275
         width: 40
         height: 40
       alignment: 0
@@ -782,8 +782,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_30
       rect:
         serializedVersion: 2
-        x: 185
-        y: 95
+        x: 5
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -803,8 +803,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_31
       rect:
         serializedVersion: 2
-        x: 230
-        y: 95
+        x: 50
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -824,8 +824,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_32
       rect:
         serializedVersion: 2
-        x: 275
-        y: 95
+        x: 95
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -845,8 +845,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_33
       rect:
         serializedVersion: 2
-        x: 320
-        y: 95
+        x: 140
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -866,8 +866,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_34
       rect:
         serializedVersion: 2
-        x: 5
-        y: 50
+        x: 185
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -887,8 +887,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_35
       rect:
         serializedVersion: 2
-        x: 50
-        y: 50
+        x: 230
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -908,8 +908,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_36
       rect:
         serializedVersion: 2
-        x: 95
-        y: 50
+        x: 275
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -929,8 +929,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_37
       rect:
         serializedVersion: 2
-        x: 140
-        y: 50
+        x: 320
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -950,8 +950,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_38
       rect:
         serializedVersion: 2
-        x: 185
-        y: 50
+        x: 365
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -971,8 +971,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_39
       rect:
         serializedVersion: 2
-        x: 230
-        y: 50
+        x: 410
+        y: 230
         width: 40
         height: 40
       alignment: 0
@@ -992,8 +992,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_40
       rect:
         serializedVersion: 2
-        x: 275
-        y: 50
+        x: 5
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1013,8 +1013,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_41
       rect:
         serializedVersion: 2
-        x: 320
-        y: 50
+        x: 50
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1034,8 +1034,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_42
       rect:
         serializedVersion: 2
-        x: 5
-        y: 5
+        x: 95
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1055,8 +1055,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_43
       rect:
         serializedVersion: 2
-        x: 50
-        y: 5
+        x: 140
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1076,8 +1076,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_44
       rect:
         serializedVersion: 2
-        x: 95
-        y: 5
+        x: 185
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1097,8 +1097,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_45
       rect:
         serializedVersion: 2
-        x: 140
-        y: 5
+        x: 230
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1118,8 +1118,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_46
       rect:
         serializedVersion: 2
-        x: 185
-        y: 5
+        x: 275
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1139,8 +1139,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_47
       rect:
         serializedVersion: 2
-        x: 230
-        y: 5
+        x: 320
+        y: 185
         width: 40
         height: 40
       alignment: 0
@@ -1160,8 +1160,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_48
       rect:
         serializedVersion: 2
-        x: 275
-        y: 5
+        x: 5
+        y: 140
         width: 40
         height: 40
       alignment: 0
@@ -1181,8 +1181,8 @@ TextureImporter:
       name: GeorgieDusterSpritesheet_49
       rect:
         serializedVersion: 2
-        x: 320
-        y: 5
+        x: 50
+        y: 140
         width: 40
         height: 40
       alignment: 0
@@ -1194,6 +1194,636 @@ TextureImporter:
       bones: []
       spriteID: 12409d7d144485549845df1cb5fac7c1
       internalID: -1072872790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 140
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c223d29afb724cacf7d1de04b01c8
+      internalID: 1558722556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d96051ffefd8b47b71e6e3f37061c1
+      internalID: 604541559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 140
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7342e1272b8e4e9059b05d4d403c9
+      internalID: 932158531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 140
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8919ea495be0374a8c3485ec8b860be
+      internalID: 657178622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 140
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b1f933d899a44b994aa2a39c47060
+      internalID: -1203377100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 140
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b330ca271c12f9942bec3fce52d51967
+      internalID: -1306281183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8314c24b4f87de42b9378feafa1e3d3
+      internalID: -931626591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9bb12996d264449b0aff0092c704a0
+      internalID: 484817481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a2fd29156d2b45afd7d8281c020f9
+      internalID: -2031655746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77ada7480e5df4c8e36443cc2790c3
+      internalID: 192371798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0b59236cdcf647be198175d8eb43d
+      internalID: -825255565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8bd9cfad282c41ac115c1836f455d
+      internalID: -260677515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af94ba8342e7546ade64356f46564e
+      internalID: 1440338418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6390d89ba7d59240b9abc7f527d29c8
+      internalID: -654291875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b972307c53f64387194935100bbf1
+      internalID: -91665765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a784733d8a864864b868ee7a31a32030
+      internalID: 1825398038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d4c8ff261bb74d8e7e5800f8119a0
+      internalID: -1999958269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb89eb1754e07b4f8461fec61b74904
+      internalID: -1816989735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b8c3aac0d87964bbfbefee270b9a6a
+      internalID: -1311671114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca99af3c060bd547915f64a2c591733
+      internalID: 1547285768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3823f3d5bb5a394d95c39f86864f47b
+      internalID: -1937997410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43850f8eec3873642bec8ca434efcc90
+      internalID: 337520083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86061dd05f431144a9e26e6783c7fb9a
+      internalID: 930094879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64378a8bba0e85843815cf0d47814ae0
+      internalID: 1812292366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f48d9a8d7f35240bf688671f648d3c
+      internalID: 1965895650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7aadd66d131b546a011c19f298397a
+      internalID: -537379904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf9bf88eca1a6f49a2bef2b62e3e992
+      internalID: 1599225447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078aa2f07170bad4389fbfdd1a944d96
+      internalID: 1682399929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a98e3f70fa7a4386043c8335a8e17
+      internalID: -1026484118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GeorgieDusterSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25edb7593af83f14b954b0dde9eeb229
+      internalID: -1529919864
       vertices: []
       indices: 
       edges: []
@@ -1255,8 +1885,38 @@ TextureImporter:
       GeorgieDusterSpritesheet_48: 480237100
       GeorgieDusterSpritesheet_49: -1072872790
       GeorgieDusterSpritesheet_5: -2077291069
+      GeorgieDusterSpritesheet_50: 1558722556
+      GeorgieDusterSpritesheet_51: 604541559
+      GeorgieDusterSpritesheet_52: 932158531
+      GeorgieDusterSpritesheet_53: 657178622
+      GeorgieDusterSpritesheet_54: -1203377100
+      GeorgieDusterSpritesheet_55: -1306281183
+      GeorgieDusterSpritesheet_56: -931626591
+      GeorgieDusterSpritesheet_57: 484817481
+      GeorgieDusterSpritesheet_58: -2031655746
+      GeorgieDusterSpritesheet_59: 192371798
       GeorgieDusterSpritesheet_6: 1698271363
+      GeorgieDusterSpritesheet_60: -825255565
+      GeorgieDusterSpritesheet_61: -260677515
+      GeorgieDusterSpritesheet_62: 1440338418
+      GeorgieDusterSpritesheet_63: -654291875
+      GeorgieDusterSpritesheet_64: -91665765
+      GeorgieDusterSpritesheet_65: 1825398038
+      GeorgieDusterSpritesheet_66: -1999958269
+      GeorgieDusterSpritesheet_67: -1816989735
+      GeorgieDusterSpritesheet_68: -1311671114
+      GeorgieDusterSpritesheet_69: 1547285768
       GeorgieDusterSpritesheet_7: -29215222
+      GeorgieDusterSpritesheet_70: -1937997410
+      GeorgieDusterSpritesheet_71: 337520083
+      GeorgieDusterSpritesheet_72: 930094879
+      GeorgieDusterSpritesheet_73: 1812292366
+      GeorgieDusterSpritesheet_74: 1965895650
+      GeorgieDusterSpritesheet_75: -537379904
+      GeorgieDusterSpritesheet_76: 1599225447
+      GeorgieDusterSpritesheet_77: 1682399929
+      GeorgieDusterSpritesheet_78: -1026484118
+      GeorgieDusterSpritesheet_79: -1529919864
       GeorgieDusterSpritesheet_8: -1635025113
       GeorgieDusterSpritesheet_9: 1058551702
   mipmapLimitGroupName: 
